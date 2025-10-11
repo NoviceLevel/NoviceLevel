@@ -11,7 +11,6 @@ Hey there! I'm **NoviceLevel**, a passionate developer crafting **game hacks, ch
 ## 🌟 About Me
 - 🔧 **Skills**: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0A0A0A?style=flat&logo=unreal-engine&logoColor=white) ![ImGui](https://img.shields.io/badge/ImGui-FFFFFF?style=flat&logo=imgui&logoColor=black)
 - 🤝 I'm open to collaborating on any project where my skills can shine—let's make something awesome together!
-- 💻 Check out my **[NoviceLevel Framework](https://github.com/NoviceLevel)** for a taste of what I do.
 
 ## 📊 My GitHub Stats
 <p align="center">
