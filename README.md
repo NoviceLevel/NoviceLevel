@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/x-46eU--mE8AAAAi/take-my-money-money.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" width="300" alt="Coding Animation" />
 </div>
 
 # ⚡ **NoviceLevel** - Hacking the Matrix 🎮
