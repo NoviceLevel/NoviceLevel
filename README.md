@@ -17,14 +17,7 @@ Hey there! I'm **NoviceLevel**, a passionate developer crafting **game hacks, ch
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoviceLevel&theme=neon&show_icons=true&hide_border=true" alt="NoviceLevel's GitHub Stats" />
 </p>
-
-## 📫 Get in Touch
-- **Discord**: `@omega172` *(Note: My first message might be "Reason for add?" to keep things organized!)*
-- **Email**: `omega@omegaware.xyz` *(I check this less frequently, so Discord is your best bet!)*
-
-## 🚀 Let's Build Something Epic!
-Whether it's modding, hacking, or creating unique tools, I'm always up for a challenge. Drop me a message, and let's create something extraordinary! ✨
-
+ 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NoviceLevel&color=neon" alt="Profile Views" />
 </div>
