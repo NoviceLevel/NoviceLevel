@@ -1,4 +1,6 @@
-# 👋 Welcome to Omega's GitHub Profile
+# 🌈 Welcome to Omega's GitHub Profile! ✨
+
+[![Omega's Profile](https://img.shields.io/badge/Omega-Developer-%23FF4500?style=for-the-badge&logo=github)](https://github.com/NoviceLevel)
 
 Hey there! I'm **Omega**, a passionate developer crafting **game hacks, cheats, and mods** for single-player/non-competitive games, alongside other cool tools and projects. I love diving into code and creating things that enhance gaming experiences or solve unique problems. 🚀
 
