@@ -13,10 +13,10 @@ Hey there! I'm **Omega**, a passionate developer crafting **game hacks, cheats, 
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omega172&theme=dracula&show_icons=true" alt="Omega's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoviceLevel&theme=dracula&show_icons=true" alt="Omega's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omega172&theme=dracula&layout=compact" alt="Omega's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceLevel&theme=dracula&layout=compact" alt="Omega's Top Languages" />
 </p>
 
 ## 🚀 Let's Build Something Epic!
