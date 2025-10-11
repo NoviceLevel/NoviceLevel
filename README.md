@@ -7,8 +7,7 @@ Hey there! I'm **NoviceLevel**, a passionate developer crafting **game hacks, ch
 ## 🌟 About Me
 - 🔧 I specialize in building hacks, mods, and utilities with a focus on creativity and functionality.
 - 🤝 I'm open to collaborating on any project where my skills can shine—let's make something awesome together!
-- 💻 Check out my **[NoviceLevel Framework]([https://github.com/NoviceLevel](https://github.com/NoviceLevel/FPSSteamGame))** for a taste of what I do.
- 
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoviceLevel&theme=dracula&show_icons=true" alt="NoviceLevel's GitHub Stats" />
