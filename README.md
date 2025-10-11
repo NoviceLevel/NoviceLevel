@@ -1,4 +1,3 @@
-<div align="center">
 ### Hello, I am Omega and welcome to my GitHub profile.
 
 - I make game hacks/cheats and mods for single player/non-competitive games as well as other random tools and things
