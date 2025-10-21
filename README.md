@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" width="300" alt="Coding Animation" />
 </div>
 
-# ⚡ **NoviceLevel** - Hacking 🎮
+# ⚡ **NoviceLevel** - Hacking       🎮
 
 [![NoviceLevel Profile](https://img.shields.io/badge/NoviceLevel-Hacker-%23FF6B6B?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/NoviceLevel)
 
